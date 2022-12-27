@@ -1,12 +1,12 @@
 # Site settings
-title: PHOTORAMA
-email: ""
-description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
-facebook_username: ""
-twitter_username: ""
-instagram_username: ""
+title: MANE MUÑIZ PORTFOLIO
+email: "mane.muniz.a@gmail.com"
+description: "Art portfolio"
+url: "https://spectralw0lf.github.io"
+baseurl: "/portfolio"
+facebook_username: "https://www.facebook.com/manemunizart"
+twitter_username: "https://twitter.com/Mane_Muniz"
+instagram_username: "https://www.instagram.com/manemuniz/"
 github_username:  ""
 deviantart_username: ""
 flickr_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://spectralw0lf.github.io/photorama/gallery/"  
+  - JOURNAL: "https://spectralw0lf.github.io/photorama/journal/"
+  - ABOUT: "https://spectralw0lf.github.io/photorama/about/"
 
 # All translation keys
 translations:
