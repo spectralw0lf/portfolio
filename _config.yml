@@ -29,7 +29,7 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://spectralw0lf.github.io/portfolio/gallery/"  
+  - PROJECTS: "https://spectralw0lf.github.io/portfolio/gallery/"  
   - JOURNAL: "https://spectralw0lf.github.io/portfolio/journal/"
   - ABOUT: "https://spectralw0lf.github.io/portfolio/about/"
 
