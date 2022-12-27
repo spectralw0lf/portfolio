@@ -4,10 +4,9 @@ email: "mane.muniz.a@gmail.com"
 description: "Art portfolio"
 url: "https://spectralw0lf.github.io"
 baseurl: "/portfolio"
-facebook_username: "https://www.facebook.com/manemunizart"
-twitter_username: "https://twitter.com/Mane_Muniz"
-instagram_username: "https://www.instagram.com/manemuniz/"
-github_username:  ""
+facebook_username: "manemunizart"
+twitter_username: "Mane_Muniz"
+instagram_username: "manemuniz/"
 deviantart_username: ""
 flickr_username: ""
 discus_shortname: ""
@@ -15,10 +14,10 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   Mane Muñiz
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: 3d props and pixel art portfolio
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
