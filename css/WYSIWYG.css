@@ -152,4 +152,4 @@ ul.soc-icons li a:hover i { color: #000;
 
 /* ADJUSTMENTS
 _____________________________________ */
-.readabletext { background-color:#000 ;}
+.readabletext { filter: drop-shadow(0 0 0.75rem #222); }
