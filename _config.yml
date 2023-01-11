@@ -30,7 +30,6 @@ comments :
 # Internal nav
 nav:
   - PROJECTS: "https://spectralw0lf.github.io/portfolio/gallery/"  
-  - JOURNAL: "https://spectralw0lf.github.io/portfolio/journal/"
   - ABOUT: "https://spectralw0lf.github.io/portfolio/about/"
 
 # All translation keys
